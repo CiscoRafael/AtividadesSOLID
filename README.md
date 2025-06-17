@@ -4,7 +4,7 @@ Este repositório contém diversas atividades de programação em Java, cada uma
 
 ## Atividades
 
-- [Atividade 1 - Estacionamento](./SimuladorDeEstacionamento)
+- [Atividade 1 - Estacionamento](./SolidECollections/SimuladorDeEstacionamento)
 - [Atividade 2 - Formas com Factory Method](./Atividade2_FormasFactoryMethod)
 - [Atividade 3 - Gerenciador de Estoque](./Atividade3_GerenciadorEstoque)
 - [Atividade 4 - Fila de Atendimento usando LinkedList](./Atividade4_FilaAtendimento)
